@@ -8,10 +8,18 @@
 
 ## 🤔 What it is
 
-A self invented attachment made from Lego for my MacBook that helps me work and study. 📚 It holds my notes, books and more so they are right there and I have more space on my desk while I work on my laptop.
+A self engineered attachment made from Lego for my MacBook that helps me work and study. 📚 It holds my notes, books and more so they are right there and I have more space on my desk while I work on my laptop.
 
-## ✨ Why I'm making it
+# 🧱 laptop_productivity_extension 💻
 
+> An extension made from Lego pieces that attaches onto my MacBook.
+
+<!-- Add a photo of your device here once you build it!
+     ![My Lego extension](media/photo.jpg) -->
+
+
+## ✨ Why I'm making it 💡
+I enjoy building things! ⚙️ Using this hands-on project where I could design something real, test it out, and keep making it better. 
 When I study or work, I have to juggle my notebook, textbook, and papers around my laptop. 😣 This Lego extension gives me a spot to hold them — and I can attach and remove it easily. 🔧
 
 ## 📋 What I track in this project
