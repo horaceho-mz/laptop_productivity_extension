@@ -1,7 +1,9 @@
 # 💻 Laptop Productivity Extension 
 > An extension made from Lego pieces that attaches onto my MacBook.
 
-<img width="2016" height="1512" alt="IMG_4816" src="https://github.com/user-attachments/assets/06b0c634-b38f-4c62-b7a8-9f6503a87833" />
+<p align="center">
+  <img width="56%" src="https://github.com/user-attachments/assets/06b0c634-b38f-4c62-b7a8-9f6503a87833" />
+</p>
 
 ## 🤔 What it is
 
