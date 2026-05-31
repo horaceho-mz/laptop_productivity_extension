@@ -1,8 +1,9 @@
+<img width="4032" height="3024" alt="IMG_4816" src="https://github.com/user-attachments/assets/06b0c634-b38f-4c62-b7a8-9f6503a87833" />
 # 💻 Laptop Productivity Extension 
 > An extension made from Lego pieces that attaches onto my MacBook.
 
 
-
+![Uploading IMG_4816.jpeg…]()
 
 
 ## 🤔 What it is
