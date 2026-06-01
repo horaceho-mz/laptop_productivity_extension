@@ -8,7 +8,7 @@ V  In depth worklog  V
   1.paper holder
   2.cliping to the laptop
   3.SSD holder
-  4.USB port [3] and LAN cable to USB-C adapter holder
+  4.USB port [3 ports] and LAN cable to USB-C adapter holder
   
 ##Issues
 
