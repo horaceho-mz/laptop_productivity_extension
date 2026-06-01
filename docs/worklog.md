@@ -13,6 +13,7 @@ V  In depth worklog  V
 ##Issues
   1.The clipping mechanic is not too consistent and may sometimes let go causing the whole extension to tip back
 
+=============================
 
 **V2 overview** 01/06/2026
 
@@ -35,3 +36,4 @@ For older functions please refer to the versions of the extensions before this v
   1. the tradeoff from the stronger and more consistent clipping is that the laptop can only be opened up to a certain angle reducing ergonomics
   2. Due to size and weight increase, the extension is harder to carry around without taking out the cooling and angled structures
  
+=============================
