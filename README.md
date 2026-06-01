@@ -1,6 +1,8 @@
 # 💻 Laptop Productivity Extension 
 > An extension made from Lego pieces that attaches onto my MacBook.
 
+The picture below is V1
+
 <p align="center">
   <img width="56%" src="https://github.com/user-attachments/assets/06b0c634-b38f-4c62-b7a8-9f6503a87833" />
 </p>
@@ -24,6 +26,8 @@ When I study or work, I have to juggle my notebook, textbook, and papers around 
 | Version | Status | What's new |
 |---------|--------|------------|
 | v1 | 🚧 Building | My first version that attaches nicely to macbook |
+| v2 | 🚧 Building | My second version that has more features and improvements  |
+
 
 ## 📓 Build log with pictures
 
