@@ -9,6 +9,7 @@ V  In depth worklog  V
   2.cliping to the laptop
   3.SSD holder
   4.USB port [3] and LAN cable to USB-C adapter holder
+  
 ##Issues
   1.The clipping mechanic is not too consistent and may sometimes let go causing the whole extension to tip back
 
