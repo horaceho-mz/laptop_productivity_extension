@@ -4,6 +4,7 @@ V  In depth worklog  V
 **V1 overview** 24/05/2026
 
 ##Functions
+
   1.paper holder
   2.cliping to the laptop
   3.SSD holder
