@@ -31,4 +31,4 @@ When I study or work, I have to juggle my notebook, textbook, and papers around 
 
 ## 📓 Build log with pictures
 
-I write dated notes about what I did and learned in docs. ✏️
+I write dated notes about what I did and learned in [docs/worklog.md](docs/worklog.md). ✏️
