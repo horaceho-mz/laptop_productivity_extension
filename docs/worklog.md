@@ -10,6 +10,7 @@
   
 ### ⚠️ Issues
 1. **Unstable Clipping:** The clipping mechanism is inconsistent and can occasionally release, causing the entire extension to tip backward.
+2. **Long term wear&tear effect:** The mechanism that holds the adapter bends the wire and slightly sepeates the part that is inserted into the laptop from the wire. 
 
 -------
 
@@ -31,3 +32,4 @@
 ### ⚠️ Issues
 1. **Limited Screen Angle:** The tradeoff for the stronger clipping mechanism is that the laptop screen can only open to a fixed angle, reducing overall ergonomics.
 2. **Portability:** Due to the increased size and weight, the extension is harder to transport without completely detaching the cooling and angled support structures.
+3. **Long term wear&tear effect:** The mechanism that holds the adapter bends the wire and slightly sepeates the part that is inserted into the laptop from the wire.
