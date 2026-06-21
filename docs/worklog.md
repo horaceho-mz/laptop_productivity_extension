@@ -14,7 +14,7 @@
 
 -------
 
-## 🚀 V2 Overview (01/06/2026)
+## 🚲 V2 Overview (01/06/2026)
 
 ### ⚙️ New Functions
 *(For older functions, please refer to previous versions of the extension.)*
@@ -33,3 +33,16 @@
 1. **Limited Screen Angle:** The tradeoff for the stronger clipping mechanism is that the laptop screen can only open to a fixed angle, reducing overall ergonomics.
 2. **Portability:** Due to the increased size and weight, the extension is harder to transport without completely detaching the cooling and angled support structures.
 3. **Long term wear&tear effect:** The mechanism that holds the adapter bends the wire and slightly sepeates the part that is inserted into the laptop from the wire.
+
+-------
+
+## 🚗 V3 Overview (21/06/2026)
+
+### ⚙️ New Functions
+*(For older functions, please refer to previous versions of the extension.)*
+
+**N/A**
+
+### 📈 Improvements over V2
+1. **Sturdier Base:** The bottom of the extension has now been secured even more so does not randomly wobble left and right.
+2. **Improved connection:** The connecting parts which connects the top half and bottom half of the extension has been updgraded, now it does not reqiure me to constantly connect them back together.
