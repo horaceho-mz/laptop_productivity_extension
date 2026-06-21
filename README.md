@@ -23,10 +23,15 @@ When I study or work, I have to juggle my notebook, textbook, and papers around 
 
 ## 🏷️ Versions
 
+🏠 = Version is finished being built
+🚧 = Version is either just being created or still under construction
+
+
 | Version | Status | What's new |
 |---------|--------|------------|
-| v1 | 🚧 Building | My first version that attaches nicely to macbook |
-| v2 | 🚧 Building | My second version that has more features and improvements  |
+| v1 | 🏠 Complete | My first version that attaches nicely to macbook |
+| v2 | 🏠 Complete | My second version that has more features and improvements  |
+| v3 | 🏠 Complete | My third version has solutions for v2's issues, no new functions were added |
 
 
 ## 📓 Build log with pictures
