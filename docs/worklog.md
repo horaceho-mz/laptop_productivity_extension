@@ -46,3 +46,9 @@
 ### 📈 Improvements over V2
 1. **Sturdier Base:** The bottom of the extension has now been secured even more so does not randomly wobble left and right.
 2. **Improved connection:** The connecting parts which connects the top half and bottom half of the extension has been updgraded, now it does not reqiure me to constantly connect them back together.
+3. **Enlarged paper holder:** An extra arm has been added to the original function to ensure that the papre will not jiggle around if there is wind.
+4. **Revamped USB-C Adapter Holder:** The USB-C adapter holder has been completed replaced to fit a slimmer USB-C adapter and built in a way to minimise damage to the part which is plugged into the laptop
+5. **More Angle Options added:** In V2 the clipping mechanism that clips onto the laptop can only be clipped in one specific way reducing ergonomics. But in V3 more pins have been added on the beam which holds on to the clipper, allowing the clipper to be placed at different heights, creating a more customizable clipping mechanism.
+
+### ⚠️ Issues
+1. **Laptop Sliding:** Since the base of the extension does not have any arms to limit the laptop from tilting left and right, the latptop may sometimes slide horizontally, disrupting work and possibly toppling the top half of the extension.
